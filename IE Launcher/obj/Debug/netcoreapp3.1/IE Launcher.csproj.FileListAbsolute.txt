@@ -1,0 +1,17 @@
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.exe
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.deps.json
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.runtimeconfig.json
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.runtimeconfig.dev.json
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.dll
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\IE Launcher.pdb
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\bin\Debug\netcoreapp3.1\Interop.SHDocVw.dll
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.csproj.AssemblyReference.cache
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\Interop.SHDocVw.dll
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.csproj.ResolveComReference.cache
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.AssemblyInfoInputs.cache
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.AssemblyInfo.cs
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.csproj.CoreCompileInputs.cache
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.dll
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.pdb
+C:\Users\10083\Documents\GitHub\IE-Launcher\IE Launcher\obj\Debug\netcoreapp3.1\IE Launcher.genruntimeconfig.cache
